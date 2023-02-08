@@ -1,28 +1,45 @@
 
-# Completed Projects
+# Completed Beginner Projects 
+1 - [Cat Photo App](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Cat%20App)
 
-1 - [Cafe Menu](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Cafe%20Menu)
+2 - [Cafe Menu](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Cafe%20Menu)
 
-2 - [Camper Cafe](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Camper%20Cafe)
+3 - [Colored Markes](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Colored%20Markers)
 
-3 - [Cat App](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Cat%20App)
+4 - [Registration Form](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Registration%20Form)
 
-4 - [Colored Markes](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Colored%20Markers)
+5 - [Survey Form](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Survey%20Form)
 
-5 - [Nutrition Page](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Nutrition%20Page)
-
-6 - [Personal Portfolio Projects](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Personal%20Portfolio%20Webpage)
+6 - [Rothko Painting](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Rothko%20Painting)
 
 7 - [Photo Gallery](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Photo%20Gallery)
 
-8 - [Product Landing Project](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Product%20Landing%20Project)
+8 - [Nutrition Label](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Nutrition%20Page)
 
-9 - [Registration Form](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Registration%20Form)
+9 - [Building Quiz] 
 
-10 - [Rothko Painting](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Rothko%20Painting)
+10 - [Tribute Page](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Tribute%20Page)
 
-11 - [Survey Form](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Survey%20Form)
+11 - [A Balance Sheet]
 
-12 - [Techincal Documentation Page](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Techincal%20Documentation%20Page)
+12 - [Picasso Painting]
 
-13 - [Tribute Page](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Tribute%20Page)
+13 - [Building Piano]
+
+14 - [Techincal Documentation Page](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Techincal%20Documentation%20Page)
+
+15 - [City Skyline]
+
+16 - [A Magazine]
+
+17 - [Product Landing Project](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Product%20Landing%20Project)
+
+18 - [Ferris Wheel]
+
+19 - [A Penguin]
+
+20 - [Personal Portfolio Projects](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Personal%20Portfolio%20Webpage)
+
+  [Camper Cafe](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Camper%20Cafe)
+
+
