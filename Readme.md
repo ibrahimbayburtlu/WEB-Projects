@@ -40,6 +40,5 @@
 
 20 - [Personal Portfolio Projects](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Personal%20Portfolio%20Webpage)
 
-  [Camper Cafe](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Camper%20Cafe)
 
 
