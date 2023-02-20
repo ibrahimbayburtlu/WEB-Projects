@@ -22,7 +22,7 @@
 
 11 - [A Balance Sheet](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Balance%20Sheet)
 
-12 - [Picasso Painting]
+12 - [Picasso Painting](https://github.com/ibrahimbayburtlu/Web-projects/tree/master/Picasso%20Painting)
 
 13 - [Building Piano]
 
